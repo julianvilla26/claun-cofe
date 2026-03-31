@@ -1,6 +1,6 @@
 <div align="center">
 
-# Claude Code — Source Code
+# Cla Co— Source Code
 
 **The full source code of Anthropic's Claude Code CLI, made public on March 31, 2026**
 
